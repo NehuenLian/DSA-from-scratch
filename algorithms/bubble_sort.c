@@ -35,6 +35,10 @@ int main() {
         printf("%d ", arr[i]);
     }
     printf("\n");
-
+    
+    /*
+    Out:
+    Sorted array: 1 2 5 5 6 9
+    */
     return 0;
 }
