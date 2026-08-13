@@ -1,6 +1,6 @@
 # Data Structures and Algorithms from Scratch
 
-Educational implementations of algorithms and data structures.⚙️
+Educational implementations of algorithms and data structures.
 
 ## Algorithms
 
